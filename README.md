@@ -24,15 +24,19 @@
 - 模块化编程
 - html + css + bootstrap搭建网站页面
 - 学生成绩管理系统命令行版
-- 每日一练
+- [每日一练](https://github.com/EasterFan/A-Day-A-Tip)
 
 第三周 理论知识与复杂技术栈  
 - 学生管理系统web版
 - http下午茶
-- RESTful + express + redis
+- [RESTful + express + redis](RESTful+express+redis)
 - 学生管理系统api版
 
 
 第四周 理论知识与复杂技术栈
+- 思沃影院
 
-# 项目实战 （2）
+# 项目实战 （2）  
+
+- 菩提老祖招聘网站
+- [一点总结](finalSummery)
