@@ -11,7 +11,7 @@
 第一周 编程基本功 
 - 环境安装  
 - docker + jenkins + 持续集成
-- git + github 版本控制
+- [git + github 版本控制](github/github.md)
 - 代码调试-Debugger
 - 正确的编程思维 Tasking + Pipeline
 - 周末作业 pre_pos
